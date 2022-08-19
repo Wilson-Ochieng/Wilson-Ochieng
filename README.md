@@ -49,8 +49,8 @@ that deliver value.
 <br>
 <br>
 <div>
-  <img height="200rem" width="500rem" src="https://github-readme-stats.vercel.app/api?username=brayokenya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-  <img height="200rem" width="400rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayokenya&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="200rem" width="500rem" src="https://github-readme-stats.vercel.app/api?username=wilson-ochieng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img height="200rem" width="400rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilson-ochieng&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
 <br> 
