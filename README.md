@@ -32,7 +32,7 @@ that deliver value.
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/wilson-owino-244a0538/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Brian Kiiru | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/wilson-owino-244a0538/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Wilson Ochieng | LinkedIn" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -55,6 +55,6 @@ that deliver value.
 <br>
 <br> 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BRAYOKENYA&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WILSON-OCHIENG&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <br>
 <br>
