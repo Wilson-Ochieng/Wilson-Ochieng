@@ -6,7 +6,7 @@ that deliver value.
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=61DAFB)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=Django&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=764ABC)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
@@ -32,7 +32,7 @@ that deliver value.
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/brian-kiiru-kimani/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Brian Kiiru | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/wilson-owino-244a0538/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Brian Kiiru | LinkedIn" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
