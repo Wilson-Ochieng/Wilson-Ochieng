@@ -1,7 +1,7 @@
 
-### Brian Kiiru
+### Wilson Ochieng
 <br>
-A solution-focused Software Developer with industry experience in designing, developing, deploying and maintaining web applications
+A a goal oriented  Software Developer and Tester  with industry experience in designing, developing, deploying and maintaining web applications
 that deliver value.
 
 ## 💼 Technical Skills
