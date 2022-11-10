@@ -7,6 +7,7 @@ that deliver value.
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=Django&color=61DAFB)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=764ABC)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
