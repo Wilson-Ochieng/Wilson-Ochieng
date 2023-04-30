@@ -1,7 +1,7 @@
 
 ### Wilson Ochieng
 <br>
-A a goal oriented  Software Developer and Tester  with industry experience in designing, developing, deploying and maintaining web applications
+A a goal oriented  Software Developer and Tester  with industry experience in designing, developing, deploying and maintaining mobile and web applications
 that deliver value.
 
 ## 💼 Technical Skills
